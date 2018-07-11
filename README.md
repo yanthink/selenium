@@ -4,7 +4,7 @@
 
 1) 打开终端执行下面命令:
 ```php
-composer require yanthink/selenium
+composer require yanthink/selenium="@dev"
 ```
 
 2) 使用
